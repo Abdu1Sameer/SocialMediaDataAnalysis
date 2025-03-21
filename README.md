@@ -1,6 +1,6 @@
 # Social Media Crisis Analysis
 
-This project focuses on extracting, analyzing, and visualizing social media posts related to mental health distress, substance use, and suicidality using data from Twitter/X and Reddit APIs.
+This Project focuses on extracting, analyzing, and visualizing social media posts related to mental health distress, substance use, and suicidality using data Reddit APIs.
 
 ## Key Features
 - Data Extraction & Preprocessing: Retrieves relevant posts and filters them based on high-risk keywords.
@@ -15,3 +15,6 @@ This project focuses on extracting, analyzing, and visualizing social media post
 
 ## Usage
 Run the notebook or explore the data and visualizations from the files provided.
+
+## About the Author
+Developed by **Shaik Abdul Sameer**, a 2nd-year undergraduate student at IIT Kanpur, pursuing Electrical Engineering. Actively involved in machine learning, AI.
